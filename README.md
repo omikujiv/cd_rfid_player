@@ -44,3 +44,7 @@ NFCタグを読み取って、関連付けられた音声ファイルを再生�
     * GPLライセンス
 
 したがって当プログラムもGPLライセンスです
+
+# リンク
+備忘録：https://note.com/0394v/n/n6e43a56cfc1e
+作例の投稿：https://protopedia.net/prototype/5139
